@@ -1,0 +1,15 @@
+Exercise 001 - Negative index to get the last string character
+Exercise 002 - Postive index to get the string character
+Exercise 003 - Negative index to get string character starting from last
+Exercise 004 - To return the index of a particular character from sting
+Exercise 005 - To return the number of occurence of particular letter from string
+Exercise 006 - Converting all letter to UPPERCASE
+Exercise 007 - To get a starting index of a substrin from main string
+Exercise 008 - To check if, string starts with any particular letter for example if string starts with "Z"
+Exercise 009 - Converting UPPERCASE to lowercase and lowercase to UPPERCASE
+Exercise 010 - Remove all spaces from string
+Exercise 011 - Replace occurence of any particular character in string from desired substring
+Exercise 012 - Split the entire string in two parts, using the comma as a delimiter.
+Exercise 013 - Join the characters of the string using the '&' symbol as a delimiter.
+Exercise 014 - Concatenate 2 different strings.
+Exercise 015 - Convert the first letter of each word in the string to uppercase.
