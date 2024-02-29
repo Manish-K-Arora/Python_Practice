@@ -13,3 +13,8 @@ Exercise 012 - Split the entire string in two parts, using the comma as a delimi
 Exercise 013 - Join the characters of the string using the '&' symbol as a delimiter.
 Exercise 014 - Concatenate 2 different strings.
 Exercise 015 - Convert the first letter of each word in the string to uppercase.
+Exercise 016 - use string formatting with the % operator to map the values
+Exercise 017 - use string formatting with the format() method to map the values
+Exercise 018 - use slicing to return the substring from the string using positive index.
+Exercise 019 - use slicing to return the substring from the string using negative index.
+Exercise 020 - use slicing to return first 12 characters in the string using positive index.
