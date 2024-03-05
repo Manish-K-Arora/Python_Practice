@@ -18,3 +18,8 @@ Exercise 017 - use string formatting with the format() method to map the values
 Exercise 018 - use slicing to return the substring from the string using positive index.
 Exercise 019 - use slicing to return the substring from the string using negative index.
 Exercise 020 - use slicing to return first 12 characters in the string using positive index.
+Exercise 021 - use slicing to return the last 9 characters of the string using negative index.
+Exercise 022 - use slicing to return the entire string in reversed order.
+Exercise 023 - use slicing to return every 7th character of the string, starting with the first character.
+Exercise 024 - use slicing to return the string except the first 10 characters using positive index.
+Exercise 025 - use slicing to return the string except the last 4 characters using negative index.
